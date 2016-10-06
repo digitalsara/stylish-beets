@@ -48,7 +48,7 @@ cite {
   font-size: 0.8rem;
 }
 
-ol li {
+main > ol li {
   list-style-type: lower-greek;
 }
 
@@ -60,6 +60,10 @@ ol li {
   font-weight: bold;
 }
 
-/*dl dt:nth-of-type(-n+1) {
-  font-style:italic;
-}*/
+ul {
+  list-style-type: circle;
+}
+
+footer {
+  font-size: 1.125rem;
+}
