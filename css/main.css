@@ -1,6 +1,5 @@
 html {
   background-color: #c9b5ab;
-  line-height: 1.9rem;
 }
 
 h1, h2 {
@@ -31,6 +30,7 @@ a:hover {
 main {
   font-family: "PT Serif", serif;
   font-weight: normal;
+  line-height: 1.8rem;
 }
 
 img {
