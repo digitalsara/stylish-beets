@@ -2,8 +2,28 @@ html {
   background-color: #c9b5ab;
 }
 
-h1 {
+h1, h2 {
   color: #3f1622;
   font-family: "PT Sans", sans-serif;
   font-weight: bold;
+}
+
+nav li {
+  list-style-type: none;
+  font-weight: bold;
+}
+
+nav li a {
+  color: #8f2440;
+  font-family: "PT Sans", sans-serif;
+  text-decoration: none;
+}
+
+main {
+  font-family: "PT Serif", serif;
+}
+
+figcaption {
+  font-style: italic;
+  text-align: center;
 }
