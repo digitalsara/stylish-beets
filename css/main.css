@@ -15,11 +15,16 @@ nav li {
   font-weight: bold;
 }
 
-nav li a {
+a,
+nav li {
   color: #8f2440;
   font-family: "PT Sans", sans-serif;
   font-size: 1.125rem;
   text-decoration: none;
+}
+
+a:hover {
+  color: #222;
 }
 
 main {
