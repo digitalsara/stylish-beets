@@ -47,3 +47,7 @@ blockquote {
 cite {
   font-size: 0.8rem;
 }
+
+ol li {
+  list-style-type: lower-greek;
+}
