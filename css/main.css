@@ -25,10 +25,12 @@ nav li {
 
 a:hover {
   color: #222;
+  text-decoration: underline;
 }
 
 main {
   font-family: "PT Serif", serif;
+  font-weight: normal;
 }
 
 img {
