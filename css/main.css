@@ -67,3 +67,8 @@ ul {
 footer {
   font-size: 1.125rem;
 }
+
+small a {
+  color: #8f2440;
+  text-decoration: none;
+}
