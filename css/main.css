@@ -51,3 +51,15 @@ cite {
 ol li {
   list-style-type: lower-greek;
 }
+
+.serving {
+  font-style: italic;
+}
+
+.value {
+  font-weight: bold;
+}
+
+/*dl dt:nth-of-type(-n+1) {
+  font-style:italic;
+}*/
