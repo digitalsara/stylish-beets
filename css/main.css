@@ -59,18 +59,25 @@ cite {
 
 main > ol li {
   list-style-type: lower-greek;
+  line-height: 1.2rem;
 }
 
 .serving {
   font-style: italic;
+  line-height: 1.2rem;
 }
 
 .value {
   font-weight: 700;
+  line-height: 1.2rem;
 }
 
 ul {
   list-style-type: circle;
+}
+
+aside {
+  line-height: 1.2rem;
 }
 
 footer {
