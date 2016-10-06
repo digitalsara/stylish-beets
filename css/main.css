@@ -23,7 +23,15 @@ main {
   font-family: "PT Serif", serif;
 }
 
+img {
+  width: 100%;
+}
+
 figcaption {
   font-style: italic;
   text-align: center;
+}
+
+.p-one {
+  font-weight: bold;
 }
